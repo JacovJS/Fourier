@@ -4,6 +4,7 @@ Illustrating a Fourier Transform using HTML, CSS, and JS.
 Programming practice #2
 
 Requirements:
+
 [x] Use HTML, CSS, and JS
 
 [x] Create a Fourier Transform
