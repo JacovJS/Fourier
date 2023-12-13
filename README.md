@@ -5,8 +5,8 @@ Programming practice #2
 
 Requirements:
 
-[x] Use HTML, CSS, and JS
+- [x] Use HTML, CSS, and JS
 
-[x] Create a Fourier Transform
+- [x] Create a Fourier Transform
 
-[x] Finish before 5 Hours
+- [x] Finish before 5 Hours
